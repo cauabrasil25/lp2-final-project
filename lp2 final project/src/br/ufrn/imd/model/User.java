@@ -4,20 +4,20 @@ public class User {
 
     private String username;
     private String password;
-    private int score;
+    private int maxScore;
 
     public User() {
         this.username = "";
         this.password = "";
-        this.score = 0;
+        this.maxScore = 0;
     }
 
-    public int getScore() {
-        return score;
+    public int getMaxScore() {
+        return maxScore;
     }
 
-    public void setScore(int score) {
-        this.score = score;
+    public void setMaxScore(int maxScore) {
+        this.maxScore = maxScore;
     }
 
     public String getPassword() {
