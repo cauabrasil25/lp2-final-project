@@ -1,6 +1,4 @@
-package br.ufrn.imd.controller;
-
-import br.ufrn.imd.model.User;
+package br.ufrn.imd.model;
 
 import java.util.ArrayList;
 
