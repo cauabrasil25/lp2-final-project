@@ -1,5 +1,9 @@
 package br.ufrn.imd.model;
 
+/**
+ * this class represents a user on the game
+ * it contains name, password and the user points
+ */
 public class User {
 
     private String username;
