@@ -1,4 +1,6 @@
-package br.ufrn.imd.model;
+package br.ufrn.imd.dao;
+
+import br.ufrn.imd.model.User;
 
 import java.util.ArrayList;
 
