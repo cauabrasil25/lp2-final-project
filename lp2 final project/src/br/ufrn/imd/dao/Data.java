@@ -19,4 +19,8 @@ public class Data  implements DataI{
     public void openFile() {
 
     }
+
+    public void closeFile() {
+
+    }
 }
