@@ -1,6 +1,6 @@
 package br.ufrn.imd.dao;
 
-public class Data {
+public class Data  implements DataI{
 
     protected String jsonFile;
 
